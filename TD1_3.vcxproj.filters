@@ -104,5 +104,6 @@
       <Filter>KamataEngine\Include</Filter>
     </ClInclude>
     <ClInclude Include="struct.h" />
+    <ClInclude Include="Player.h" />
   </ItemGroup>
 </Project>
