@@ -1,4 +1,5 @@
 #include <Novice.h>
+#include "struct.h"
 
 const char kWindowTitle[] = "1346_gameTitle";
 
